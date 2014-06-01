@@ -1,6 +1,6 @@
 {
   "name": "language-sln",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Visual Studio solution language support for Atom",
   "repository": {
     "type": "git",
